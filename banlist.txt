@@ -1,0 +1,1 @@
+BAN_LIST = ['Dkpure','Sensual9469', 'stuntbear', 'matthewf7', 'sky1ler1', 'Luckystrike187', 'StarlessKnight', 'KarmaKilla', 'TomasN8', 'wiredzax'];
