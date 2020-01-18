@@ -1,2 +1,2 @@
 BAN_LIST = [];
-BAN_LIST = ['nerderror','BATTLEFRONT778', 'spiltwar', 'tharru', 'Sensual9469', 'stuntbear', 'matthewf7', 'sky1ler1', 'Luckystrike187', 'StarlessKnight', 'KarmaKilla', 'TomasN8', 'wiredzax'];
+BAN_LIST = ['StefanBBC', 'nerderror','BATTLEFRONT778', 'spiltwar', 'tharru', 'Sensual9469', 'stuntbear', 'matthewf7', 'sky1ler1', 'Luckystrike187', 'StarlessKnight', 'KarmaKilla', 'TomasN8', 'wiredzax'];
