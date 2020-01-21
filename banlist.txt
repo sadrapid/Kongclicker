@@ -1,2 +1,2 @@
 BAN_LIST = [];
-BAN_LIST = ['kolashik7','kolashik6','kolashik5','kolashik4','kolashik3', 'kolashik2', 'kolashik', 'LtlandpaZombidle', 'simile1', 'nikeshlez', 'saix1113', 'Korlik1', 'StefanBBC','BATTLEFRONT778', 'spiltwar', 'tharru', 'Sensual9469', 'stuntbear', 'matthewf7', 'sky1ler1', 'Luckystrike187', 'StarlessKnight', 'KarmaKilla', 'TomasN8', 'wiredzax'];
+BAN_LIST = ['kolashik10', 'kolashik9', 'kolashik8', 'kolashik7', 'kolashik6', 'kolashik5', 'kolashik4', 'kolashik3', 'kolashik2', 'kolashik', 'LtlandpaZombidle', 'simile1', 'nikeshlez', 'saix1113', 'Korlik1', 'StefanBBC','BATTLEFRONT778', 'spiltwar', 'tharru', 'Sensual9469', 'stuntbear', 'matthewf7', 'sky1ler1', 'Luckystrike187', 'StarlessKnight', 'KarmaKilla', 'TomasN8', 'wiredzax'];
